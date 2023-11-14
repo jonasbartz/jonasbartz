@@ -5,7 +5,7 @@ I'm data engineer and data analyst. Here you will find study cases and my portfo
 <a href="https://www.linkedin.com/in/jonasbartz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href = "mailto:jonasbartz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-Main skills:
+###Main skills:
 
 - CSPO, CSM and AWS Certified and great experience/hands on AWS and Azure cloud environments, also:
 - Knowledge and experience in Classical Machine Learning & Deep Learning: Supervised, Unsupervised Algorithms, (Naïve Bayes, GLM/Regression, Trees, Random Forest, Boosting Algorithms, Clustering Techniques), Convolutional Nets, LSTM; advantages and drawbacks.
