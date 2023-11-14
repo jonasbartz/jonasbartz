@@ -13,7 +13,7 @@ I'm data engineer and data analyst. Here you will find study cases and my portfo
 - Knowledge and experience in Classical Machine Learning & Deep Learning: Supervised, Unsupervised Algorithms, (Naïve Bayes, GLM/Regression, Trees, Random Forest, Boosting Algorithms, Clustering Techniques), Convolutional Nets, LSTM; advantages and drawbacks.
 - Knowledge and experience with Recommender Systems (content-based filtering, collaborative filtering, and knowledge-based systems).
 - Knowledge of advanced statistical techniques and concepts (hypothesis testing, regression, properties of distributions, statistical inference, loss function optimization and their applications)
-- Hands on ETL (Extract, Transform, Load) experience: extract data from structured, semi structured, unstructured sources via SQL, noSQL; data wrangling with Pandas/Numpy.
+- Knowledge, hands on ETL (Extract, Transform, Load) experience: extract data from structured, semi structured, unstructured sources via SQL, noSQL; data wrangling with Pandas/Numpy.
 - Experience turning business requirements into a demonstrable proof of concept, packaging, deploying, and discussing its added value to the organization.
 - Experience with scanned documents by means of Computer Vision/Image Processing; abilities with cv2, object recognition. Able to engineer visual features for model training.
 - Experience visualizing/presenting data for stakeholders using: Power BI, Tableau, ggplot, etc.
