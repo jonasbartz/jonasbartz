@@ -17,6 +17,7 @@ I'm data engineer and data analyst. Here you will find study cases and my portfo
 - Experience visualizing/presenting data for stakeholders using: Power BI, Tableau, ggplot, etc.
 
 - Python, Airflow, Kafka, Qlik Sence, Tableau, Machine Learning
+<br>
 [![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
 [![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
@@ -30,6 +31,8 @@ I'm data engineer and data analyst. Here you will find study cases and my portfo
 <b>ADP - 2020 - Present</b>
 <br>
 - Responsible for cross-functional teams, allocated in India and the USA, OneUX and Compliance projects, migration of legacy systems to new existing platforms, monitoring and execution of the strategic plan defined for the teams throughout the fiscal year and quarters.
+<b>DLL - 2019 - 2020</b>
+- Responsible for migrating legacy BI and other separate BI structures to Azure, using Azure SQL, Data Factory and Azure DevOps.
 <br>
 <br>
 <b>DLL - 2019 - 2020</b>
