@@ -20,4 +20,8 @@ Main skills:
 
 ### Employment History
 ADP - 2020 - Present
+<br>
 Responsible for cross-functional teams, allocated in India and the USA, OneUX and Compliance projects, migration of legacy systems to new existing platforms, monitoring and execution of the strategic plan defined for the teams throughout the fiscal year and quarters.
+<br>
+DLL - 2019 - 2020
+Responsible for migrating legacy BI and other separate BI structures to Azure, using Azure SQL, Data Factory and Azure DevOps.
