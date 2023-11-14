@@ -16,7 +16,15 @@ I'm data engineer and data analyst. Here you will find study cases and my portfo
 - Experience with scanned documents by means of Computer Vision/Image Processing; abilities with cv2, object recognition. Able to engineer visual features for model training.
 - Experience visualizing/presenting data for stakeholders using: Power BI, Tableau, ggplot, etc.
 
-- Python, Airflow, Kafka, Azure, AWS, SQL, PostgreSQL, Power BI, Qlik Sence, Tableau, Machine Learning
+- Python, Airflow, Kafka, Qlik Sence, Tableau, Machine Learning
+[![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://github.comdemetriusengdados/demetriusengdados/edit/main/README.md)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![AWS](https://img.shields.io/badge/AWS-0052CC?style=for-the-badge&logo=AWS&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
 
 ### Employment History
 <b>ADP - 2020 - Present</b>
