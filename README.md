@@ -2,22 +2,10 @@
 
 I'm data engineer and data analyst. Here you will find study cases and my portfolio. 
 
-Main skills:
-
-- Python
-- Airflow
-- Kafka
-- Azure
-- AWS
-- SQL
-- PostgreSQL
-- Power BI
-- Qlik Sence
-- Tableau
-- Machine Learning
-
 <a href="https://www.linkedin.com/in/jonasbartz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> <a href = "mailto:jonasbartz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+Main skills:
 
 - CSPO, CSM and AWS Certified and great experience/hands on AWS and Azure cloud environments, also:
 - Knowledge and experience in Classical Machine Learning & Deep Learning: Supervised, Unsupervised Algorithms, (Naïve Bayes, GLM/Regression, Trees, Random Forest, Boosting Algorithms, Clustering Techniques), Convolutional Nets, LSTM; advantages and drawbacks.
@@ -27,6 +15,8 @@ Main skills:
 - Experience turning business requirements into a demonstrable proof of concept, packaging, deploying, and discussing its added value to the organization.
 - Experience with scanned documents by means of Computer Vision/Image Processing; abilities with cv2, object recognition. Able to engineer visual features for model training.
 - Experience visualizing/presenting data for stakeholders using: Power BI, Tableau, ggplot, etc.
+
+- Python, Airflow, Kafka, Azure, AWS, SQL, PostgreSQL, Power BI, Qlik Sence, Tableau, Machine Learning
 
 ### Employment History
 ADP - 2020 - Present
