@@ -27,3 +27,13 @@ Responsible for cross-functional teams, allocated in India and the USA, OneUX an
 DLL - 2019 - 2020
 <br>
 Responsible for migrating legacy BI and other separate BI structures to Azure, using Azure SQL, Data Factory and Azure DevOps.
+<br>
+<br>
+Thyssenkrupp - 2018 - 2019
+<br>
+Responsible for conducting and executing BI projects, having implemented service, commercial, financial, and corporate monitoring indicators. Creator and responsible for the self-service bi project within the organization. Evangelizer of work and characteristics of BI projects within the organization as well as promoter of new needs in the business areas.
+<br>
+<br>
+KPMG - 2013 - 2018
+<br>
+Responsible for project management and business analysis of tax and accounting projects, creating solutions for clients from different areas (eg Oil and Gas, Banks, Energy) involving tax compliance and sending tax information to the Brazilian government. Also responsible for the organization of work sprints, using the SCRUM framework and with the professional evolution of the team following the company's internal policies.
