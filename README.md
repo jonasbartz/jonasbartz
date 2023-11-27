@@ -7,18 +7,23 @@ I'm data engineer and data analyst. Here you will find study cases and my portfo
 
 <a href = "https://drive.google.com/file/d/1J6y8vmN8QMU_fvHvepKi2YzJAfUaSawl/view">Portfolio</a>
 
-### Main skills:
+### Professional Summary:
 
-- CSPO, CSM and AWS Certified and great experience/hands on AWS and Azure cloud environments, also:
-- Knowledge and experience in Classical Machine Learning & Deep Learning: Supervised, Unsupervised Algorithms, (Naïve Bayes, GLM/Regression, Trees, Random Forest, Boosting Algorithms, Clustering Techniques), Convolutional Nets, LSTM; advantages and drawbacks.
-- Knowledge and experience with Recommender Systems (content-based filtering, collaborative filtering, and knowledge-based systems).
-- Knowledge of advanced statistical techniques and concepts (hypothesis testing, regression, properties of distributions, statistical inference, loss function optimization and their applications)
-- Knowledge, hands on ETL (Extract, Transform, Load) experience: extract data from structured, semi structured, unstructured sources via SQL, noSQL; data wrangling with Pandas/Numpy.
-- Experience turning business requirements into a demonstrable proof of concept, packaging, deploying, and discussing its added value to the organization.
-- Experience with scanned documents by means of Computer Vision/Image Processing; abilities with cv2, object recognition. Able to engineer visual features for model training.
-- Experience visualizing/presenting data for stakeholders using: Power BI, Tableau, ggplot, etc.
+Results-oriented and certified professional with expertise in Cloud Technologies, Machine Learning, and Data Engineering. Holds certifications as a Certified Scrum Product Owner (CSPO), Certified Scrum Master (CSM), and AWS Certified. Proven track record of success in AWS and Azure cloud environments, with a strong foundation in:
 
-- Python, Airflow, Kafka, Azure, AWS, SQL, Power BI, Qlik Sence, Tableau, Machine Learning
+• Machine Learning & Deep Learning: Extensive knowledge and hands-on experience in classical machine learning and deep learning techniques, including Supervised and Unsupervised Algorithms, Recommender Systems, and advanced statistical concepts.
+
+• ETL Expertise: Demonstrated hands-on experience in Extract, Transform, Load (ETL) processes, extracting data from diverse sources via SQL, NoSQL, and performing data wrangling using Pandas/Numpy.
+
+• Proof of Concept Development: Skilled in translating business requirements into tangible proof of concepts, effectively packaging, deploying, and articulating their added value to the organization.
+
+• Computer Vision/Image Processing: Proficient in working with scanned documents through Computer Vision/Image Processing, showcasing abilities in cv2, object recognition, and engineering visual features for model training.
+
+• Data Visualization: Experience in visualizing and presenting data for stakeholders using tools such as Power BI, Tableau, ggplot, ensuring effective communication of insights.
+
+• Communication Skills: Exceptional written and verbal communication skills, adept at coordinating across diverse teams, creating compelling PowerPoint presentations, and presenting to both technical and business audiences.
+
+• Python, Airflow, Kafka, Azure, AWS, SQL, Power BI, Qlik Sence, Tableau, Machine Learning
 
 ### Employment History
 <dl>
