@@ -13,15 +13,15 @@ Results-oriented and certified professional with expertise in Cloud Technologies
 
 • <b>Machine Learning & Deep Learning:</b> Extensive knowledge and hands-on experience in classical machine learning and deep learning techniques, including Supervised and Unsupervised Algorithms, Recommender Systems, and advanced statistical concepts.
 
-• ETL Expertise: Demonstrated hands-on experience in Extract, Transform, Load (ETL) processes, extracting data from diverse sources via SQL, NoSQL, and performing data wrangling using Pandas/Numpy.
+• <b>ETL Expertise:</b> Demonstrated hands-on experience in Extract, Transform, Load (ETL) processes, extracting data from diverse sources via SQL, NoSQL, and performing data wrangling using Pandas/Numpy.
 
-• Proof of Concept Development: Skilled in translating business requirements into tangible proof of concepts, effectively packaging, deploying, and articulating their added value to the organization.
+• <b>Proof of Concept Development:</b> Skilled in translating business requirements into tangible proof of concepts, effectively packaging, deploying, and articulating their added value to the organization.
 
-• Computer Vision/Image Processing: Proficient in working with scanned documents through Computer Vision/Image Processing, showcasing abilities in cv2, object recognition, and engineering visual features for model training.
+• <b>Computer Vision/Image Processing:</b> Proficient in working with scanned documents through Computer Vision/Image Processing, showcasing abilities in cv2, object recognition, and engineering visual features for model training.
 
-• Data Visualization: Experience in visualizing and presenting data for stakeholders using tools such as Power BI, Tableau, ggplot, ensuring effective communication of insights.
+• <b>Data Visualization:</b> Experience in visualizing and presenting data for stakeholders using tools such as Power BI, Tableau, ggplot, ensuring effective communication of insights.
 
-• Communication Skills: Exceptional written and verbal communication skills, adept at coordinating across diverse teams, creating compelling PowerPoint presentations, and presenting to both technical and business audiences.
+• <b>Communication Skills:</b> Exceptional written and verbal communication skills, adept at coordinating across diverse teams, creating compelling PowerPoint presentations, and presenting to both technical and business audiences.
 
 • Python, Airflow, Kafka, Azure, AWS, SQL, Power BI, Qlik Sence, Tableau, Machine Learning
 
