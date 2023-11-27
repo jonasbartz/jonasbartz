@@ -11,7 +11,7 @@ I'm data engineer and data analyst. Here you will find study cases and my portfo
 
 Results-oriented and certified professional with expertise in Cloud Technologies, Machine Learning, and Data Engineering. Holds certifications as a Certified Scrum Product Owner (CSPO), Certified Scrum Master (CSM), and AWS Certified. Proven track record of success in AWS and Azure cloud environments, with a strong foundation in:
 
-• Machine Learning & Deep Learning: Extensive knowledge and hands-on experience in classical machine learning and deep learning techniques, including Supervised and Unsupervised Algorithms, Recommender Systems, and advanced statistical concepts.
+• <b>Machine Learning & Deep Learning:</b> Extensive knowledge and hands-on experience in classical machine learning and deep learning techniques, including Supervised and Unsupervised Algorithms, Recommender Systems, and advanced statistical concepts.
 
 • ETL Expertise: Demonstrated hands-on experience in Extract, Transform, Load (ETL) processes, extracting data from diverse sources via SQL, NoSQL, and performing data wrangling using Pandas/Numpy.
 
